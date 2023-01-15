@@ -1,4 +1,4 @@
-# Shape Up -- A Fitness Landing Page
+# Fitness-Landing-Page
 
 A landing page for a fitness website built using React JS, CSS, and JSX.
 
@@ -18,7 +18,7 @@ To run the project on your local machine, follow the instructions below:
 
 ### Clone the repository to your local machine
 
-git clone https://github.com/AhsanRaza059/Shape-Up.git
+git clone https://github.com/AhsanRaza059/Fitness-Landing-Page.git
 
 ### Install the required dependencies
 
