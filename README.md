@@ -1,4 +1,4 @@
-# Fitness-Landing-Page
+# Shape Up -- A Fitness-Landing-Page
 
 A landing page for a fitness website built using React JS, CSS, and JSX.
 
